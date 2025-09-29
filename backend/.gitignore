@@ -3,3 +3,5 @@ __pycache__/
 
 .env
 backend/.venv.env
+user.py
+PIPELINE_README.md
